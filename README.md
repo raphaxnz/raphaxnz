@@ -20,7 +20,7 @@ My Tecnologies and Tools:
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-## Ferramentas e Frameworks
+##  Ferramentas e Frameworks
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/pgAdmin-364257?style=for-the-badge&logo=pgadmin&logoColor=white" />
@@ -31,7 +31,9 @@ My Tecnologies and Tools:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> |
 
+📞 Fala Comigo! (Contact Me)
 
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaely.sales@germinare.org.br)
 
 
 
