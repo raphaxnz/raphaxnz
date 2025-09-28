@@ -1,25 +1,19 @@
 ## Olá, me chamo Raphaely Mendes 👋
 
-Aluna do Instituto JeF. Tenho mais afinidade com o desenvolvimento front-end (HTML & CSS), com design (UX/UI) e banco de dados (PostgreSQL), mas também estou aprendendo desenvolvimento back-end (Java and Python).
-
-Estudante de Desenvolvimento e Análise de Dados. 👨‍💻
-
-Estou aprendendo: HTML, CSS, Java, Python e SQL.
-
+🌱 Atualmende estudo desenvolvimento de sistemas e análise de dados no Instituto J&F
+🔭 Possuo afinidade com desenvolvimento front-end (HTML & CSS) e design (UX/UI)
+📚 Também possuo experiência com banco de dados (PostgreSQL), e desenvolvimento back-end (Java e Python)
+ 
 <details>
 <summary>
-  ✨ Sobre Mim
+  💻 Mais sobre mim
 </summary>
 <br>
 
-Eu sou um(a) [Seu Nível ou Ocupação, ex: Desenvolvedor Júnior, Estudante, Entusiasta] apaixonado(a) por tecnologia!
-
-Minha jornada no código começou com [ex: Python e Java] e hoje busco sempre novos desafios.
-
-**Interesses:**
-* [Seu hobby relacionado ou não a código, ex: Inteligência Artificial, Jogos, Design UX/UI]
-* [Outro interesse legal]
-* [Mais um!]
+<li>🧠 Tenho 15 anos</li>
+<li>🌍 Sou fascinada por UX/UI e desenvolvimento front-end</li>
+<li>📖 Gosto de ler e assistir filmes de ficção</li>
+<li>🏓 Gosto de jogar tênis de mesa e outros esportes</li>
 
 </details>
 
@@ -39,7 +33,7 @@ Minha jornada no código começou com [ex: Python e Java] e hoje busco sempre no
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-##  🛠️ Ferramentas e Frameworks
+##  🛠️ Ferramentas
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/pgAdmin-364257?style=for-the-badge&logo=pgadmin&logoColor=white" />
