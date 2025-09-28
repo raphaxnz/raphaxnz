@@ -6,6 +6,25 @@ Estudante de Desenvolvimento e Análise de Dados. 👨‍💻
 
 Estou aprendendo: HTML, CSS, Java, Python e SQL.
 
+<details>
+<summary>
+  ✨ Sobre Mim
+</summary>
+<br>
+
+Eu sou um(a) [Seu Nível ou Ocupação, ex: Desenvolvedor Júnior, Estudante, Entusiasta] apaixonado(a) por tecnologia!
+
+Minha jornada no código começou com [ex: Python e Java] e hoje busco sempre novos desafios.
+
+**Interesses:**
+* [Seu hobby relacionado ou não a código, ex: Inteligência Artificial, Jogos, Design UX/UI]
+* [Outro interesse legal]
+* [Mais um!]
+
+</details>
+
+---
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaxnz&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaxnz&layout=compact&theme=dark)
