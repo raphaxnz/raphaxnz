@@ -11,7 +11,7 @@ My Tecnologies and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaxnz&layout=compact&theme=default)
 
 
-### Linguagens que utilizo
+##  🚀Linguagens que utilizo
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -20,7 +20,7 @@ My Tecnologies and Tools:
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### Ferramentas e Frameworks
+## Ferramentas e Frameworks
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/pgAdmin-364257?style=for-the-badge&logo=pgadmin&logoColor=white" />
