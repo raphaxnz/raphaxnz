@@ -27,5 +27,14 @@ My Tecnologies and Tools:
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
+## 🎯 Próximos Passos (O que Quero Aprender)
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=Quero Aprender" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&label=Quero Aprender" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&label=Quero Aprender" />
+</div>
+
+
 
 
