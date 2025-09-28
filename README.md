@@ -8,5 +8,5 @@ Currently learning: HTML, CSS, Java, Python and SQL.
 My Tecnologies and Tools:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaxnz&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaxn&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaxnz&layout=compact&theme=default)
 
