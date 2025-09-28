@@ -1,8 +1,10 @@
 ## Olá, me chamo Raphaely Mendes 👋
 
-🌱 Atualmende estudo desenvolvimento de sistemas e análise de dados no Instituto J&F
-🔭 Possuo afinidade com desenvolvimento front-end (HTML & CSS) e design (UX/UI)
-📚 Também possuo experiência com banco de dados (PostgreSQL), e desenvolvimento back-end (Java e Python)
+<li>🌱 Atualmende estudo desenvolvimento de sistemas e análise de dados no Instituto J&F </li>
+
+<li>🔭 Possuo afinidade com desenvolvimento front-end (HTML & CSS) e design (UX/UI)</li>
+
+<li>📚 Também possuo experiência com banco de dados (PostgreSQL), e desenvolvimento back-end (Java e Python)</li>
  
 <details>
 <summary>
@@ -10,10 +12,10 @@
 </summary>
 <br>
 
-<li>🧠 Tenho 15 anos</li>
-<li>🌍 Sou fascinada por UX/UI e desenvolvimento front-end</li>
-<li>📖 Gosto de ler e assistir filmes de ficção</li>
-<li>🏓 Gosto de jogar tênis de mesa e outros esportes</li>
+    <li>🧠 Tenho 15 anos</li>
+    <li>🌍 Sou fascinada por UX/UI e desenvolvimento front-end</li>
+    <li>📖 Gosto de ler e assistir filmes de ficção</li>
+    <li>🏓 Gosto de jogar tênis de mesa e outros esportes</li>
 
 </details>
 
