@@ -1,8 +1,9 @@
-## Hi, I'm Rapha Mendes 👋
+## Olá, me chamo Raphaely Mendes 👋
 
 Aluna do Instituto JeF. Tenho mais afinidade com o desenvolvimento front-end (HTML & CSS), com design (UX/UI) e banco de dados (PostgreSQL), mas também estou aprendendo desenvolvimento back-end (Java and Python).
 
 Estudante de Desenvolvimento e Análise de Dados. 👨‍💻
+
 Estou aprendendo: HTML, CSS, Java, Python e SQL.
 
 
