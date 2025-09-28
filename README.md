@@ -10,3 +10,6 @@ My Tecnologies and Tools:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaxnz&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaxnz&layout=compact&theme=default)
 
+<img src="https://img.shields.io/pypi/pyversions/:packageNamestyle=for-the-badge&logo=NOME_DO_ICONE&logoColor=white" />
+
+
