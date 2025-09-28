@@ -12,10 +12,10 @@
 </summary>
 <br>
 
-    <li>🧠 Tenho 15 anos</li>
-    <li>🌍 Sou fascinada por UX/UI e desenvolvimento front-end</li>
-    <li>📖 Gosto de ler e assistir filmes de ficção</li>
-    <li>🏓 Gosto de jogar tênis de mesa e outros esportes</li>
+   <li>🧠 Tenho 15 anos</li>
+   <li>🌍 Sou fascinada por UX/UI e desenvolvimento front-end</li>
+   <li>📖 Gosto de ler e assistir filmes de ficção</li>
+   <li>🏓 Gosto de jogar tênis de mesa e outros esportes</li>
 
 </details>
 
