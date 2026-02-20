@@ -60,7 +60,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <strong>React</strong> - Framework JavaScript
   <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" alt="Databricks" width="50" height="50"/> <strong>Databricks</strong> - Platform de análise e IA
+  <strong>Databricks</strong> - Platform de análise e IA
 </div>
 
 
