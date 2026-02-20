@@ -27,20 +27,42 @@
 
 
 ##  🚀 Linguagens que utilizo
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/> <strong>Python</strong> - Análise de dados e backend
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/> <strong>Java</strong> - Desenvolvimento backend
+  <br/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/> <strong>JavaScript</strong> - Desenvolvimento frontend e web
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <strong>HTML5</strong> - Estrutura web
+  <br/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <strong>CSS3</strong> - Estilização web
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" height="50"/> <strong>SQL</strong> - Banco de dados relacional
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/> <strong>Ruby</strong> - Desenvolvimento backend
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/> <strong>PostgreSQL</strong> - Banco de dados relacional
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <strong>MongoDB</strong> - Banco de dados NoSQL
 </div>
 
 ##  🛠️ Ferramentas
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/pgAdmin-364257?style=for-the-badge&logo=pgadmin&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <strong>Figma</strong> - Design e prototipagem
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/> <strong>VS Code</strong> - Editor de código
+  <br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50" height="50"/> <strong>Android Studio</strong> - Desenvolvimento mobile
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="pgAdmin" width="50" height="50"/> <strong>pgAdmin</strong> - Gerenciamento PostgreSQL
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <strong>React</strong> - Framework JavaScript
+  <br/>
+  <img src="https://skillicons.dev/icons?i=databricks" alt="Databricks" width="50" height="50"/> <strong>Databricks</strong> - Platform de análise e IA
 </div>
+
 
 ## 🎯 O que quero aprender
 
@@ -48,12 +70,15 @@
 
 ## 📞 Contato
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaely.sales@germinare.org.br)
-
-https://skillicons.dev - Acesse para criar badges customizadas
-Exemplo: ![JavaScript](https://skillicons.dev/icons?i=js,python,java,mongodb,react,html,css)
-
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+<div align="left">
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/raphaxnz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
