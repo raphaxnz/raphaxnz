@@ -66,7 +66,15 @@
 
 ## 🎯 O que quero aprender
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> |
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <strong>React</strong> - Aprofundar em desenvolvimento frontend
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <strong>Node.js</strong> - Backend JavaScript
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50" height="50"/> <strong>Flutter</strong> - Desenvolvimento mobile multiplataforma
+  <br/>
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50" height="50"/> <strong>Kotlin</strong> - Desenvolvimento Android moderno
+</div>
 
 ## 📞 Contato
 
