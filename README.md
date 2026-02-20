@@ -54,11 +54,13 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/> <strong>VS Code</strong> - Editor de código
   <br/>
+  <img src="https://skillicons.dev/icons?i=all" alt="VS Code" width="50" height="50"/> <strong>IntelliJ</strong> - Editor de código
+  <br/>
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50" height="50"/> <strong>Android Studio</strong> - Desenvolvimento mobile
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="pgAdmin" width="50" height="50"/> <strong>pgAdmin</strong> - Gerenciamento PostgreSQL
   <br/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <strong>React</strong> - Framework JavaScript
+  <img src="https://skillicons.dev/icons?i=all" alt="Docker" width="50" height="50"/> <strong>Docker</strong> - Framework JavaScript
   <br/>
   <strong>Databricks</strong> - Platform de análise e IA
 </div>
