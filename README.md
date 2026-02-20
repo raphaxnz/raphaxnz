@@ -50,5 +50,6 @@
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaely.sales@germinare.org.br)
 
-
+https://skillicons.dev - Acesse para criar badges customizadas
+Exemplo: ![JavaScript](https://skillicons.dev/icons?i=js,python,java,mongodb,react,html,css)
 
