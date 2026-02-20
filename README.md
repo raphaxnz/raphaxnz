@@ -21,30 +21,36 @@
 
 ---
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaxnz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaxnz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaxnz&layout=compact&theme=dark)
+### Linguagens Mais Usadas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaxnz&theme=dracula&hide_border=true&layout=compact)
+
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raphaxnz&theme=dracula&hide_border=true)
+
+### GitHub Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=raphaxnz&theme=dracula&no-frame=true&row=1&column=7)
 
 
 ##  🚀 Linguagens que utilizo
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/> <strong>Python</strong> - Análise de dados e backend
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/> <strong>Java</strong>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/> <strong>JavaScript</strong>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <strong>HTML5</strong>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> 
   <br/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <strong>CSS3</strong>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> 
   <br/>
-  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" height="50"/> <strong>SQL</strong> 
+  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/> 
   <br/>
-  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/> <strong>Ruby</strong>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/> 
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/> <strong>PostgreSQL</strong>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <strong>MongoDB</strong>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> 
 </div>
 
 ##  🛠️ Ferramentas
