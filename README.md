@@ -53,3 +53,7 @@
 https://skillicons.dev - Acesse para criar badges customizadas
 Exemplo: ![JavaScript](https://skillicons.dev/icons?i=js,python,java,mongodb,react,html,css)
 
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+
