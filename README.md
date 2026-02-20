@@ -30,37 +30,37 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/> <strong>Python</strong> - Análise de dados e backend
   <br/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/> <strong>Java</strong> - Desenvolvimento backend
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/> <strong>Java</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/> <strong>JavaScript</strong> - Desenvolvimento frontend e web
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/> <strong>JavaScript</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <strong>HTML5</strong> - Estrutura web
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <strong>HTML5</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <strong>CSS3</strong> - Estilização web
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <strong>CSS3</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" height="50"/> <strong>SQL</strong> - Banco de dados relacional
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" height="50"/> <strong>SQL</strong> 
   <br/>
-  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/> <strong>Ruby</strong> - Desenvolvimento backend
+  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/> <strong>Ruby</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/> <strong>PostgreSQL</strong> - Banco de dados relacional
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/> <strong>PostgreSQL</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <strong>MongoDB</strong> - Banco de dados NoSQL
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <strong>MongoDB</strong>
 </div>
 
 ##  🛠️ Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <strong>Figma</strong> - Design e prototipagem
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/> <strong>Figma</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/> <strong>VS Code</strong> - Editor de código
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/> <strong>VS Code</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=all" alt="VS Code" width="50" height="50"/> <strong>IntelliJ</strong> - Editor de código
+  <img src="https://skillicons.dev/icons?i=intellij" alt="VS Code" width="50" height="50"/> <strong>IntelliJ</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50" height="50"/> <strong>Android Studio</strong> - Desenvolvimento mobile
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50" height="50"/> <strong>Android Studio</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="pgAdmin" width="50" height="50"/> <strong>pgAdmin</strong> - Gerenciamento PostgreSQL
+  <img src="https://skillicons.dev/icons?i=postgres" alt="pgAdmin" width="50" height="50"/> <strong>pgAdmin</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=all" alt="Docker" width="50" height="50"/> <strong>Docker</strong> - Framework JavaScript
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/> <strong>Docker</strong>
   <br/>
   <strong>Databricks</strong> - Platform de análise e IA
 </div>
@@ -69,26 +69,27 @@
 ## 🎯 O que quero aprender
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <strong>React</strong> - Aprofundar em desenvolvimento frontend
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <strong>React</strong> 
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <strong>Node.js</strong> - Backend JavaScript
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <strong>Node.js</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50" height="50"/> <strong>Flutter</strong> - Desenvolvimento mobile multiplataforma
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50" height="50"/> <strong>Flutter</strong>
   <br/>
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50" height="50"/> <strong>Kotlin</strong> - Desenvolvimento Android moderno
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50" height="50"/> <strong>Kotlin</strong>
 </div>
 
 ## 📞 Contato
 
 <div align="left">
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:raphaely.sales@institutojef.org.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
+  <a href="https://www.linkedin.com/in/raphaely-mendes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/raphaxnz">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
+
 
