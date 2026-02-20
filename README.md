@@ -41,7 +41,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=intelliJ" alt="VS Code" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="pgAdmin" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/> 
