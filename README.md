@@ -12,8 +12,8 @@
 </summary>
 <br>
 
-   <li>🧠 Tenho 15 anos</li>
-   <li>🌍 Sou fascinada por UX/UI e desenvolvimento front-end</li>
+   <li>🧠 Tenho 16 anos</li>
+   <li>🌍 Sou fascinada por desenvolvimento front-end e business inteligence</li>
    <li>📖 Gosto de ler e assistir filmes de fantasia</li>
    <li>🏓 Gosto de jogar tênis de mesa e outros esportes</li>
 
