@@ -1,8 +1,4 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,FF2D2D,8B0000&height=240&section=header&text=Raphaely%20Mendes&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20DevSecOps%20%7C%20Red%20Team&descAlignY=58"/>
-
-<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&lines=%24+whoami;Raphaely+Mendes;%24+role;Assistant+Software+Developer;%24+company;PicPay;%24+team;DevSecOps+-+Red+Team"/>
 
@@ -64,7 +60,7 @@ Tenho interesse em desenvolver aplicações que combinem **performance**, **segu
 
 ### Languages
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=java,go,python,ts,js,ruby,bash"/>
 
@@ -74,7 +70,7 @@ Tenho interesse em desenvolver aplicações que combinem **performance**, **segu
 
 ### Software Development
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring,html,css"/>
 
@@ -84,7 +80,7 @@ Tenho interesse em desenvolver aplicações que combinem **performance**, **segu
 
 ### Mobile
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=androidstudio"/>
 
@@ -94,7 +90,7 @@ Tenho interesse em desenvolver aplicações que combinem **performance**, **segu
 
 ### Data & AI
 
-<p align="center">
+<p>
 
 Pandas • PySpark • Databricks • LangChain
 
@@ -104,7 +100,7 @@ Pandas • PySpark • Databricks • LangChain
 
 ### Databases
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 
@@ -114,7 +110,7 @@ Pandas • PySpark • Databricks • LangChain
 
 ### Infrastructure
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,apple"/>
 
@@ -124,7 +120,7 @@ Pandas • PySpark • Databricks • LangChain
 
 ### Security
 
-<p align="center">
+<p>
 
 OWASP • Snyk • Moonlight
 
@@ -134,7 +130,7 @@ OWASP • Snyk • Moonlight
 
 ### Design
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=figma"/>
 
