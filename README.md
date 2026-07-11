@@ -3,9 +3,6 @@
 </p>
 
 <div align="center">
-
-<img src="./assets/hero-banner.png" width="100%" alt="Welcome to Rapha's Github" />
-
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1200&color=FF2438&background=00000000&center=true&vCenter=true&width=520&lines=whoami;Raphaely+Mendes;Red+Team+%C2%B7+DevSecOps+%C2%B7+PicPay" alt="typing banner" />
 
 </div>
