@@ -27,31 +27,23 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
 
 **`/languages`**
  
-**`/languages`**
- 
-<img src="https://skillicons.dev/icons?i=java,go,py,ruby,js,ts,html,css,bash" alt="Java, Go, Python, Ruby, JavaScript, TypeScript, HTML5, CSS3, Shell Script" />
-<img src="./assets/icons/sql.svg" width="48" height="48" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=java,go,py,ruby,js,ts,html,css,bash,postgres,mysql" alt="Java, Go, Python, Ruby, JavaScript, TypeScript, HTML5, CSS3, Shell Script, PostgreSQL, MySQL" />
 **`/frameworks-e-bibliotecas`**
  
-<img src="https://skillicons.dev/icons?i=react,spring" alt="React, Spring Boot" />
-<img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas" />
-<img src="https://cdn.simpleicons.org/apachespark" width="48" height="48" alt="PySpark" />
+<img src="https://skillicons.dev/icons?i=react,spring" alt="React, Spring Boot" /> <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain" /> <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas" /> <img src="https://cdn.simpleicons.org/apachespark" width="48" height="48" alt="PySpark" />
+ 
 **`/dados`**
  
-<img src="https://cdn.simpleicons.org/databricks" width="48" height="48" alt="Databricks" />
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB" />
-<img src="https://cdn.simpleicons.org/postgresql" width="48" height="48" alt="pgAdmin" />
+<img src="https://cdn.simpleicons.org/databricks" width="48" height="48" alt="Databricks" /> <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB" /> <img src="https://cdn.simpleicons.org/postgresql" width="48" height="48" alt="pgAdmin" />
+ 
 **`/ferramentas`**
  
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,linux,figma" alt="VS Code, IntelliJ IDEA, Android Studio, Linux, Figma" />
-<img src="https://cdn.simpleicons.org/jira" width="48" height="48" alt="Jira" />
-<img src="./assets/icons/moonlight.svg" width="48" height="48" alt="Moonlight" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,linux,figma" alt="VS Code, IntelliJ IDEA, Android Studio, Linux, Figma" /> <img src="https://cdn.simpleicons.org/jira" width="48" height="48" alt="Jira" /> <img src="./assets/icons/moonlight.svg" width="48" height="48" alt="Moonlight" />
+ 
 **`/security`**
  
-<img src="https://cdn.simpleicons.org/owasp" width="48" height="48" alt="OWASP" />
-<img src="https://cdn.simpleicons.org/snyk" width="48" height="48" alt="Snyk" />
-<img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux, Shell Script" />
+<img src="https://cdn.simpleicons.org/owasp" width="48" height="48" alt="OWASP" /> <img src="https://cdn.simpleicons.org/snyk" width="48" height="48" alt="Snyk" /> <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux, Shell Script" />
+ 
 <br/>
 
 ## `rapha@github:~$` git log --stat
