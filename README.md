@@ -12,7 +12,6 @@
 ## `rapha@github:~$` whoami
 
 **Raphaely Mendes**
-*Segurança ofensiva por profissão. Engenharia por vocação.*
 
 | | |
 |:--|:--|
@@ -24,36 +23,32 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
 
 <br/>
 
-## `rapha@github:~$` ls ./skills
+# Languages and Technologies
 
 **`/languages`**
-
-<img src="https://skillicons.dev/icons?i=java,go,py,ruby,js,ts,html,css,bash&theme=light" alt="Java, Go, Python, Ruby, JavaScript, TypeScript, HTML5, CSS3, Shell Script" />
-<img src="https://img.shields.io/badge/SQL-2B0509?style=for-the-badge" alt="SQL" />
-
+ 
+<img src="https://skillicons.dev/icons?i=java,go,py,ruby,js,ts,html,css,bash" alt="Java, Go, Python, Ruby, JavaScript, TypeScript, HTML5, CSS3, Shell Script" />
+<img src="./assets/icons/sql.svg" width="48" height="48" alt="SQL" />
 **`/frameworks-e-bibliotecas`**
-
-<img src="https://skillicons.dev/icons?i=react,spring&theme=light" alt="React, Spring Boot" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-
+ 
+<img src="https://skillicons.dev/icons?i=react,spring" alt="React, Spring Boot" />
+<img src="./assets/icons/langchain.svg" width="48" height="48" alt="LangChain" />
+<img src="./assets/icons/pandas.svg" width="48" height="48" alt="Pandas" />
+<img src="./assets/icons/pyspark.svg" width="48" height="48" alt="PySpark" />
 **`/dados`**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" alt="PostgreSQL, MongoDB" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-<img src="https://img.shields.io/badge/pgAdmin-2B0509?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" />
-
+ 
+<img src="./assets/icons/databricks.svg" width="48" height="48" alt="Databricks" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB" />
+<img src="./assets/icons/pgadmin.svg" width="48" height="48" alt="pgAdmin" />
 **`/ferramentas`**
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,linux,figma&theme=light" alt="VS Code, IntelliJ IDEA, Android Studio, Linux, Figma" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-
+ 
+<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,linux,figma" alt="VS Code, IntelliJ IDEA, Android Studio, Linux, Figma" />
+<img src="./assets/icons/jira.svg" width="48" height="48" alt="Jira" />
 **`/security`**
-
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=light" alt="Linux, Shell Script" />
+ 
+<img src="./assets/icons/owasp.svg" width="48" height="48" alt="OWASP" />
+<img src="./assets/icons/snyk.svg" width="48" height="48" alt="Snyk" />
+<img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux, Shell Script" />
 
 <br/>
 
