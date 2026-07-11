@@ -1,68 +1,82 @@
-
 <p align="center">
   <img width="1200" height="400" alt="Welcome to Rapha’s Github " src="https://github.com/user-attachments/assets/3271da2e-56f0-44e0-b4ce-6481ea8b0d76" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=500&lines=DevSecOps+%7C+Red+Team;Cybersecurity+Researcher;Data+Engineering+%26+Analytics" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,000000,4a0000,000000&height=60&section=header&text=" width="100%"/>
-</p>
+<img src="./assets/hero-banner.png" width="100%" alt="Welcome to Rapha's Github" />
 
-## 🩸 [0x01] // About_Me
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1200&color=FF2438&background=00000000&center=true&vCenter=true&width=520&lines=whoami;Raphaely+Mendes;Red+Team+%C2%B7+DevSecOps+%C2%B7+PicPay" alt="typing banner" />
 
-> "A cibersegurança ofensiva não se trata de quebrar regras, mas de entender o sistema melhor do que quem o criou."
+</div>
 
-```io
-[+] Role:       Assistente de Desenvolvimento @ PicPay (DevSecOps / Red Team)
-[+] Education:  Técnico em Desenvolvimento de Sistemas & Análise de Dados @ Instituto J&F (2º Ano)
-[+] Focus:      Cybersecurity, Offensive Security, Big Data & Automation
+<br/>
 
-```
+## `rapha@github:~$` whoami
 
-Atuo na intersecção entre o desenvolvimento de software seguro e a mentalidade ofensiva (**Red Team**). No meu dia a dia na **PicPay**, transformo linhas de código em automações de segurança, analiso vulnerabilidades e manipulo grandes ecossistemas de dados para garantir arquiteturas resilientes e blindadas.
+**Raphaely Mendes**
+*Segurança ofensiva por profissão. Engenharia por vocação.*
 
-Paralelamente, estou no segundo ano do Ensino Médio Técnico no **Instituto J&F**, aprofundando meus conhecimentos em engenharia de dados e arquitetura de sistemas.
+| | |
+|:--|:--|
+| 🏢 **empresa** | PicPay — Assistente de Desenvolvimento, DevSecOps / Red Team |
+| 🎓 **estudos** | Desenvolvimento de Sistemas & Análise de Dados |
+| 🔐 **foco** | Red Team · AppSec · automação ofensiva |
 
----
+Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Cibersegurança — encontrando as brechas antes que alguém mal-intencionado as encontre. Fora das simulações de ataque, estudo Desenvolvimento de Sistemas e Análise de Dados, unindo instinto ofensivo a fundamentos sólidos de engenharia. Entre um exploit e uma query, sigo construindo: código, conhecimento e novas formas de pensar como quem ataca — para defender melhor.
 
-## 🛠️ [0x02] // Tech_Stack
+<br/>
 
-### 🧠 Core Languages & Scripting
+## `rapha@github:~$` ls ./skills
 
-### 💀 CyberSec & DevSecOps Ecosystem
+**`/languages`**
 
-```sec
-[!] Security Frameworks:  OWASP Top 10, Snyk SCA/SAST
-[!] Code Auditing:        Análise estática/dinâmica e automações ofensivas
-[!] Custom Tools:         Moonlight & Scripts de Varredura Personalizados
+<img src="https://skillicons.dev/icons?i=java,go,py,ruby,js,ts,html,css,bash&theme=light" alt="Java, Go, Python, Ruby, JavaScript, TypeScript, HTML5, CSS3, Shell Script" />
+<img src="https://img.shields.io/badge/SQL-2B0509?style=for-the-badge" alt="SQL" />
 
-```
+**`/frameworks-e-bibliotecas`**
 
-### ⚡ Frameworks & Environments
+<img src="https://skillicons.dev/icons?i=react,spring&theme=light" alt="React, Spring Boot" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
 
-> **AI & Integrations:** `LangChain` para desenvolvimento e automação com LLMs.
+**`/dados`**
 
-### 🔮 Data Engineering & Analytics
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" alt="PostgreSQL, MongoDB" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/pgAdmin-2B0509?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" />
 
-```data
-[•] Big Data:        PySpark & Apache Spark Ecosystem
-[•] Cloud Data:      Databricks Environment
+**`/ferramentas`**
 
-```
+<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,linux,figma&theme=light" alt="VS Code, IntelliJ IDEA, Android Studio, Linux, Figma" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 
-### 🗄️ Databases & Infrastructure
+**`/security`**
 
-### ⚙️ Workspace & Productivity
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=light" alt="Linux, Shell Script" />
 
----
+<br/>
 
-## 📊 [0x03] // Activity_Metrics
+## `rapha@github:~$` git log --stat
 
----
+<div align="left">
 
-## 🌐 [0x04] // Connect
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=raphaxnz&show_icons=true&hide_border=true&bg_color=0B0708&title_color=FF2438&icon_color=FF2438&text_color=ECE3E0&ring_color=9A1220" alt="estatísticas do GitHub" />
+<img height="165px" src="https://streak-stats.demolab.com/?user=raphaxnz&hide_border=true&background=0B0708&ring=FF2438&fire=FF2438&currStreakLabel=FF2438&sideLabels=ECE3E0&sideNums=ECE3E0&currStreakNum=ECE3E0&dates=8F7D7D" alt="streak de contribuições" />
+
+</div>
+
+> `// substitua "raphaxnz" pelo seu usuário real do GitHub nas três URLs acima caso ainda não tenha feito — os cartões carregam os dados ao vivo direto do seu perfil.`
+
+<br/>
+
+<div align="center">
+
+**Raphaely Mendes**
+
+`rapha@github:~$ exit_`
+
+</div>
