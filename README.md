@@ -38,7 +38,7 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
  
 **`/ferramentas`**
  
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,linux,figma" alt="VS Code, IntelliJ IDEA, Android Studio, Linux, Figma" /> <img src="https://cdn.simpleicons.org/jira" width="38" height="38" alt="Jira" /> <img src="./assets/icons/moonlight.svg" width="48" height="48" alt="Moonlight" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,linux,figma" alt="VS Code, IntelliJ IDEA, Android Studio, Linux, Figma" /> <img src="https://images.seeklogo.com/logo-png/33/2/jira-logo-png_seeklogo-338597.png" width="48" height="48" alt="Jira" />
  
 **`/security`**
  
