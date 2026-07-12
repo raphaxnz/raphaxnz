@@ -25,25 +25,53 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
 
 # Languages and Technologies
 
+## Languages and Technologie<img src="https://img.shields.io/badge/s-FF3B3B?style=flat-square" height="0"/>
+
 **`/languages`**
- 
-<img src="https://skillicons.dev/icons?i=java,go,py,ruby,js,ts,html,css,bash,postgres,mysql" alt="Java, Go, Python, Ruby, JavaScript, TypeScript, HTML5, CSS3, Shell Script, PostgreSQL, MySQL" />
+
+<img src="https://cdn.simpleicons.org/java/FFFFFF" width="42" alt="Java"/>
+<img src="https://cdn.simpleicons.org/go/00ADD8" width="42" alt="Go"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python"/>
+<img src="https://cdn.simpleicons.org/ruby/CC342D" width="42" alt="Ruby"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript"/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" alt="TypeScript"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML5"/>
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="42" alt="CSS3"/>
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" alt="Bash"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" alt="PostgreSQL"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="MySQL"/>
+
 **`/frameworks-e-bibliotecas`**
- 
-<img src="https://skillicons.dev/icons?i=react,spring" alt="React, Spring Boot" /> <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain" /> <img src="https://cdn.simpleicons.org/pandas/61A6FF" width="48" height="48" alt="Pandas" /> <img src="https://cdn.simpleicons.org/apachespark" width="48" height="48" alt="PySpark" />
- 
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React"/>
+<img src="https://cdn.simpleicons.org/spring/6DB33F" width="42" alt="Spring Boot"/>
+<img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="42" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="42" alt="Pandas"/>
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="42" alt="PySpark"/>
+
 **`/dados`**
- 
-<img src="https://cdn.simpleicons.org/databricks" width="48" height="48" alt="Databricks" /> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySql" />
- 
+
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="42" alt="Databricks"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" alt="PostgreSQL"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" alt="MongoDB"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="MySQL"/>
+
 **`/ferramentas`**
- 
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,linux,figma" alt="VS Code, IntelliJ IDEA, Android Studio, Linux, Figma" /> <img src="https://images.seeklogo.com/logo-png/33/2/jira-logo-png_seeklogo-338597.png" width="48" height="48" alt="Jira" />
- 
+
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" alt="VS Code"/>
+<img src="https://cdn.simpleicons.org/intellijidea/FFFFFF" width="42" alt="IntelliJ IDEA"/>
+<img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="42" alt="Android Studio"/>
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="42" alt="Linux"/>
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" alt="Figma"/>
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="42" alt="Jira"/>
+
 **`/security`**
- 
-<img src="https://cdn.simpleicons.org/owasp/FF2438" width="48" height="48" alt="OWASP" /> <img src="https://cdn.simpleicons.org/snyk/9C9AFF" width="48" height="48" alt="Snyk" /> <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux, Shell Script" />
- 
+
+<img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="42" alt="OWASP"/>
+<img src="https://cdn.simpleicons.org/snyk/4C4A73" width="42" alt="Snyk"/>
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="42" alt="Linux"/>
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" alt="Bash"/>
+
 <br/>
 
 ## `rapha@github:~$` git log --stat
