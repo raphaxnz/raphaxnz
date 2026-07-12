@@ -34,7 +34,7 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
  
 **`/dados`**
  
-<img src="https://cdn.simpleicons.org/databricks" width="48" height="48" alt="Databricks" /> <img src="https://skillicons.dev/icons?i=postgres,mongodb, mysql" alt="PostgreSQL, MongoDB, MySql" />
+<img src="https://cdn.simpleicons.org/databricks" width="48" height="48" alt="Databricks" /> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySql" />
  
 **`/ferramentas`**
  
