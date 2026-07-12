@@ -2,6 +2,8 @@
   <img width="1200" height="400" alt="Welcome to Rapha’s Github " src="https://github.com/user-attachments/assets/3271da2e-56f0-44e0-b4ce-6481ea8b0d76" />
 </p>
 
+## `rapha@github:~$` whoami
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1200&color=FF2438&background=00000000&center=true&vCenter=true&width=520&lines=whoami;Raphaely+Mendes;Red+Team+%C2%B7+DevSecOps+%C2%B7+PicPay" alt="typing banner" />
 
@@ -9,7 +11,6 @@
 
 <br/>
 
-## `rapha@github:~$` whoami
 
 ```bash
 > whoami
