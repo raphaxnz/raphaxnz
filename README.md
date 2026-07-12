@@ -13,15 +13,43 @@
 
 **Raphaely Mendes**
 
-| | |
-|:--|:--|
-| 🏢 **empresa** | PicPay — Assistente de Desenvolvimento, DevSecOps / Red Team |
-| 🎓 **estudos** | Desenvolvimento de Sistemas & Análise de Dados |
-| 🔐 **foco** | Red Team · AppSec · automação ofensiva |
+# About Me
 
-Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Cibersegurança — encontrando as brechas antes que alguém mal-intencionado as encontre. Fora das simulações de ataque, estudo Desenvolvimento de Sistemas e Análise de Dados, unindo instinto ofensivo a fundamentos sólidos de engenharia. Entre um exploit e uma query, sigo construindo: código, conhecimento e novas formas de pensar como quem ataca — para defender melhor.
+### 💼 Work
 
-# Languages and Technologies_
+Assistant Software Developer at **PicPay**
+
+DevSecOps • Red Team
+
+---
+
+### 🎓 Education
+
+Technical Degree in Systems Development
+
+ETEC
+
+---
+
+### 🎯 Interests
+
+- Cybersecurity
+- DevSecOps
+- Red Team
+- Backend
+- AI
+- Cloud
+
+---
+
+### 🚀 Currently Learning
+
+- Go
+- React
+- Offensive Security
+- AI Agents
+
+# Languages and Technologies
 
 **`/languages`**
 
