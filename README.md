@@ -22,56 +22,65 @@
 Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Cibersegurança — encontrando as brechas antes que alguém mal-intencionado as encontre. Fora das simulações de ataque, estudo Desenvolvimento de Sistemas e Análise de Dados, unindo instinto ofensivo a fundamentos sólidos de engenharia. Entre um exploit e uma query, sigo construindo: código, conhecimento e novas formas de pensar como quem ataca — para defender melhor.
 
 <br/>
-
 # Languages and Technologies
-
-## Languages and Technologie<img src="https://img.shields.io/badge/s-FF3B3B?style=flat-square" height="0"/>
 
 **`/languages`**
 
-<img src="https://cdn.simpleicons.org/java/FFFFFF" width="42" alt="Java"/>
-<img src="https://cdn.simpleicons.org/go/00ADD8" width="42" alt="Go"/>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python"/>
-<img src="https://cdn.simpleicons.org/ruby/CC342D" width="42" alt="Ruby"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript"/>
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" alt="TypeScript"/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML5"/>
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="42" alt="CSS3"/>
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" alt="Bash"/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" alt="PostgreSQL"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="MySQL"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=go" height="42" alt="Go"/>
+  <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=ruby" height="42" alt="Ruby"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL"/>
+</p>
 
-**`/frameworks-e-bibliotecas`**
+**`/frameworks-and-libraries`**
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React"/>
-<img src="https://cdn.simpleicons.org/spring/6DB33F" width="42" alt="Spring Boot"/>
-<img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="42" alt="LangChain"/>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="42" alt="Pandas"/>
-<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="42" alt="PySpark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="Spring Boot"/>
+  <img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="42" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="42" alt="PySpark"/>
+</p>
 
-**`/dados`**
+**`/data`**
 
-<img src="https://cdn.simpleicons.org/databricks/FF3621" width="42" alt="Databricks"/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" alt="PostgreSQL"/>
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" alt="MongoDB"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="MySQL"/>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="Databricks"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL"/>
+</p>
 
-**`/ferramentas`**
+**`/tools`**
 
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" alt="VS Code"/>
-<img src="https://cdn.simpleicons.org/intellijidea/FFFFFF" width="42" alt="IntelliJ IDEA"/>
-<img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="42" alt="Android Studio"/>
-<img src="https://cdn.simpleicons.org/linux/FCC624" width="42" alt="Linux"/>
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" alt="Figma"/>
-<img src="https://cdn.simpleicons.org/jira/0052CC" width="42" alt="Jira"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="42" alt="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="42" alt="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="42" alt="Jira"/>
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker"/>
+</p>
 
 **`/security`**
 
-<img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="42" alt="OWASP"/>
-<img src="https://cdn.simpleicons.org/snyk/4C4A73" width="42" alt="Snyk"/>
-<img src="https://cdn.simpleicons.org/linux/FCC624" width="42" alt="Linux"/>
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" alt="Bash"/>
-
+<p align="left">
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="42" alt="OWASP"/>
+  <img src="https://cdn.simpleicons.org/snyk/4C4A73" height="42" alt="Snyk"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash"/>
+</p>
 <br/>
 
 ## `rapha@github:~$` git log --stat
