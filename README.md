@@ -11,42 +11,36 @@
 
 ## `rapha@github:~$` whoami
 
-**Raphaely Mendes**
-
-# 👋 Hi, I'm Raphaely Mendes
-
 ```bash
 > whoami
 
 Name............... Raphaely Mendes
 Role............... Software Developer | DevSecOps | Red Team
 Company............ PicPay
-Education.......... Systems Development @ ETEC
-Focus.............. Application Security • Offensive Security • Backend
+Education.......... Software Development and Data Analysist @ Instituto J&F
+Focus.............. Cybersecurity • Data Engineering • Full Stack Development
 Location........... Brazil
 ```
-
 ---
 
 ## About Me
 
 I'm a Software Developer currently working at **PicPay**, where I am part of the **DevSecOps / Red Team**. My work focuses on improving application security by identifying vulnerabilities, automating security processes and integrating secure development practices into engineering workflows.
 
-Alongside my professional experience, I study **Software Development** at ETEC, where I build full-stack applications, APIs and data-driven solutions while continuously exploring new technologies.
+Alongside my professional experience, I study Software Development and Data Analysist at Instituto J&F, where I build full-stack applications, APIs and data-driven solutions while continuously exploring new technologies.
 
-I'm passionate about cybersecurity, backend development and automation, always looking to understand how systems work internally and how they can be built more securely.
+I'm passionate about cybersecurity, full-stack development, and creating web applications with REST APIs. I have a strong interest in UX/UI design, data modeling, and Business Intelligence, combining technology, design, and data to build efficient and secure solutions.
 
 ---
 
 ## Current Focus
 
 - Offensive Security & Red Team
-- DevSecOps
 - Backend Development
+- AI Applications
 - API Design
 - Secure Software Engineering
 - Cloud & Automation
-- AI Applications
 
 ---
 
@@ -66,22 +60,19 @@ I'm passionate about cybersecurity, backend development and automation, always l
 
 ## Education
 
-### ETEC
+### Instituto J&F - Germinare Tech
 
-**Technical Degree in Systems Development**
+**Technical Degree Student in Systems Development and Data Analysis**
 
-- Software Engineering
-- Databases
-- Mobile Development
 - Backend Development
+- API Design
+- Frontend Development
+- DevOps Infrastructure 
+- UX/UI Design
 - Data Analysis
-- Cloud Computing
-
+- Mobile Development
+  
 ---
-
-# Tech Stack
-
-...
 
 # Languages and Technologies
 
