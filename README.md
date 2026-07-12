@@ -24,6 +24,13 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
 <br/>
 # Languages and Technologies
 
+
+
+<br/>
+
+## `rapha@github:~$` git log --stat
+# Languages and Technologies
+
 **`/languages`**
 
 <p align="left">
@@ -81,10 +88,6 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
   <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash"/>
 </p>
-<br/>
-
-## `rapha@github:~$` git log --stat
-
 <div align="left">
 
 <img height="165px" src="https://github-readme-stats.vercel.app/api?username=raphaxnz&show_icons=true&hide_border=true&bg_color=0B0708&title_color=FF2438&icon_color=FF2438&text_color=ECE3E0&ring_color=9A1220" alt="estatísticas do GitHub" />
