@@ -21,15 +21,8 @@
 
 Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Cibersegurança — encontrando as brechas antes que alguém mal-intencionado as encontre. Fora das simulações de ataque, estudo Desenvolvimento de Sistemas e Análise de Dados, unindo instinto ofensivo a fundamentos sólidos de engenharia. Entre um exploit e uma query, sigo construindo: código, conhecimento e novas formas de pensar como quem ataca — para defender melhor.
 
-<br/>
-# Languages and Technologies
-
-
-
-<br/>
-
-## `rapha@github:~$` git log --stat
-# Languages and Technologies
+# Languages and 
+<span style"color=FF2438;">Technologies</span>
 
 **`/languages`**
 
