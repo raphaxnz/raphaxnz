@@ -13,41 +13,75 @@
 
 **Raphaely Mendes**
 
-# About Me
+# 👋 Hi, I'm Raphaely Mendes
 
-### 💼 Work
+```bash
+> whoami
 
-Assistant Software Developer at **PicPay**
-
-DevSecOps • Red Team
-
----
-
-### 🎓 Education
-
-Technical Degree in Systems Development
-
-ETEC
+Name............... Raphaely Mendes
+Role............... Software Developer | DevSecOps | Red Team
+Company............ PicPay
+Education.......... Systems Development @ ETEC
+Focus.............. Application Security • Offensive Security • Backend
+Location........... Brazil
+```
 
 ---
 
-### 🎯 Interests
+## About Me
 
-- Cybersecurity
+I'm a Software Developer currently working at **PicPay**, where I am part of the **DevSecOps / Red Team**. My work focuses on improving application security by identifying vulnerabilities, automating security processes and integrating secure development practices into engineering workflows.
+
+Alongside my professional experience, I study **Software Development** at ETEC, where I build full-stack applications, APIs and data-driven solutions while continuously exploring new technologies.
+
+I'm passionate about cybersecurity, backend development and automation, always looking to understand how systems work internally and how they can be built more securely.
+
+---
+
+## Current Focus
+
+- Offensive Security & Red Team
 - DevSecOps
-- Red Team
-- Backend
-- AI
-- Cloud
+- Backend Development
+- API Design
+- Secure Software Engineering
+- Cloud & Automation
+- AI Applications
 
 ---
 
-### 🚀 Currently Learning
+## Experience
 
-- Go
-- React
-- Offensive Security
-- AI Agents
+### PicPay
+
+**Assistant Software Developer — DevSecOps / Red Team**
+
+- Security Automation
+- Vulnerability Assessment
+- Secure Development
+- Internal Security Tools
+- CI/CD Security
+
+---
+
+## Education
+
+### ETEC
+
+**Technical Degree in Systems Development**
+
+- Software Engineering
+- Databases
+- Mobile Development
+- Backend Development
+- Data Analysis
+- Cloud Computing
+
+---
+
+# Tech Stack
+
+...
 
 # Languages and Technologies
 
