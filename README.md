@@ -60,10 +60,10 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
 **`/data`**
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="Databricks"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="Databricks"/>
 </p>
 
 **`/tools`**
@@ -74,10 +74,10 @@ Atuo no time de DevSecOps do PicPay, na frente de Red Team dentro da área de Ci
   <img src="https://skillicons.dev/icons?i=androidstudio" height="42" alt="Android Studio"/>
   <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira"/>
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira"/>
 </p>
 
 **`/security`**
