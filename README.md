@@ -131,7 +131,7 @@ I'm passionate about cybersecurity, full-stack development, and creating web app
 <p align="left">
   <img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="42" alt="OWASP"/>
   <img src="https://cdn.simpleicons.org/snyk/4C4A73" height="42" alt="Snyk"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="42" alt="Kali Linux"/>
   <img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash"/>
 </p>
 
