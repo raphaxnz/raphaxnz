@@ -16,7 +16,7 @@
 > whoami
 
 Name............... Raphaely Mendes
-Role............... Software Developer | DevSecOps | Red Team
+Role............... Assistant Software Developer | CyberSecurity | Red Team
 Company............ PicPay
 Education.......... Software Development and Data Analysist @ Instituto J&F
 Focus.............. Cybersecurity • Data Engineering • Full Stack Development
@@ -26,7 +26,7 @@ Location........... Brazil
 
 ## About Me
 
-I'm a Software Developer currently working at **PicPay**, where I am part of the **DevSecOps / Red Team**. My work focuses on improving application security by identifying vulnerabilities, automating security processes and integrating secure development practices into engineering workflows.
+I'm a Assistant Software Developer currently working at **PicPay**, where I am part of the **CyberSecurity / Red Team**. My work focuses on improving application security by identifying vulnerabilities, automating security processes and integrating secure development practices into engineering workflows.
 
 Alongside my professional experience, I study Software Development and Data Analysist at Instituto J&F, where I build full-stack applications, APIs and data-driven solutions while continuously exploring new technologies.
 
@@ -49,7 +49,7 @@ I'm passionate about cybersecurity, full-stack development, and creating web app
 
 ### PicPay
 
-**Assistant Software Developer — DevSecOps / Red Team**
+**Assistant Software Developer — CyberSecurity / Red Team**
 
 - Security Automation
 - Vulnerability Assessment
